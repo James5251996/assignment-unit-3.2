@@ -56,7 +56,7 @@ while (i < stars.length) {
 };
 // 3.b. TODO: Write a while loop to console.log the numbers from 0 to 5
 console.log('count from 0 to 5');
- i=0
+ i=-1
 while (i<5) {
   i++;
   console.log(i);
